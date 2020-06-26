@@ -2,4 +2,4 @@
 
 freesoft-100.com#@#.newpost_side
 freesoft-100.com#@##update_userprofile_side
-qiita.com#@#.p-items_aside
+qiita.com#@#.p-items_main
