@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
 
 freesoft-100.com#@#.newpost_side
+detail.chiebukuro.yahoo.co.jp#.ClapLv2QuestionItem_Chie-QuestionItem__Item__HQiuJ
 freesoft-100.com#@##update_userprofile_side
