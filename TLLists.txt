@@ -2,4 +2,5 @@
 
 freesoft-100.com#@#.newpost_side
 detail.chiebukuro.yahoo.co.jp#.ClapLv2QuestionItem_Chie-QuestionItem__Item__HQiuJ
+detail.chiebukuro.yahoo.co.jp#.Detail_chie-Pages__2vYjY
 freesoft-100.com#@##update_userprofile_side
